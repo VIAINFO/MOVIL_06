@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="ENC_ENTREGAS_ListView">
+      <RowLayout Id="RowLayout">
+        <RowLayoutItem Id="Photo" Removed="True" />
+      </RowLayout>
+    </ListView>
+  </Views>
+</Application>
